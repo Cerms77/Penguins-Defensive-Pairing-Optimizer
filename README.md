@@ -145,7 +145,7 @@ Please note: This is an independent research project and is not affiliated with 
 
 ## Author
 
-Milan J.s Cermak
+Milan J. Cermak
 
 Northeastern University
 Data Analytics | Hockey Research & Development
