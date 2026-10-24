@@ -101,15 +101,17 @@ These observations should not be interpreted as definitive lineup recommendation
 - Short evaluation windows produce various expected-goal differentials, without taking into account deployment of pairing.
 - Current-season results are preliminary.
 
-The framework is best interpreted as a sample-adjusted evaluation and historical prediction benchmark, rather than a fully validated lineup optimization algorithm. However it can be used as a starting block of evalution and pairing deployment when presented to the coaching staff. 
+The framework is best interpreted as a sample-adjusted evaluation and historical prediction benchmark, rather than a fully validated lineup optimization algorithm. However, it can be used as a starting block of evalution and pairing deployment when presented to the coaching staff. 
 
-## Analysts Reccomendation for Pairing Deployment
-The pairings below are in no particular order and are based off of the models findings combined with the authors hockey iq.
+## Analysts Recommendation for Pairing Deployment
+The pairings below are in no particular order and are based on the model's findings combined with the author's hockey iq.
 In no particular order:
+
 - Girard & Korczak
 - Stastney & Letang
 - Karlsson & Carlile
-These pairing produce a positive adjusted goal differential per 60 (xGD/60) of 0.81. 
+
+These pairings produce a positive adjusted goal differential per 60 (xGD/60) of 0.81. 
 This confirms that these pairings will collectivley provide a balance of offensive production, defensive supression, and complinmentary playing styles according to the analytical findings within this model. This combonation also follows the traditional pairing rule of a defesive pairing having both a right shot and left shot player in their makeup. From a coaching perspective, left-right combinations can offer advantages during defensive-zone breakouts, puck retrievals along the boards, and offensive-zone puck movement.
 
 ## Technologies
@@ -139,7 +141,7 @@ The scripts expect the source CSV files to be located in the repository's main d
 MoneyPuck NHL Data:
 https://moneypuck.com/data.htm
 
-Please Note: This is an independent research project and is not affiliated with or endorsed by the Pittsburgh Penguins or the NHL.
+Please note: This is an independent research project and is not affiliated with or endorsed by the Pittsburgh Penguins or the NHL.
 
 ## Author
 
